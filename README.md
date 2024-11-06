@@ -3,6 +3,6 @@ On Windows:
 
 ### .\venv\Scripts\activate
 
-### Deactivating the Environment
+## Deactivating the Environment
 
 ### deactivate
