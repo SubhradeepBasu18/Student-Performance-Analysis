@@ -1,8 +1,21 @@
-## Activate the Virtual Environment
-On Windows:
+## Setting Up and Using the Virtual Environment
 
-### .\venv\Scripts\activate
+### 1. **Activate the Virtual Environment**
 
-## Deactivating the Environment
+- **On Windows**:
+    ```bash
+    .\venv\Scripts\activate
+    ```
 
-### deactivate
+- **On macOS/Linux**:
+    ```bash
+    source venv/bin/activate
+    ```
+
+Once activated, your terminal should show the environment name (e.g., `venv`) at the beginning of the prompt.
+
+### 2. **Deactivate the Virtual Environment**
+
+To deactivate the virtual environment when you're done, simply run:
+```bash
+deactivate
